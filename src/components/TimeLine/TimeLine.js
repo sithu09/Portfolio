@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Educated as BE (IT) at TU (Meiktila).
+      Educated as BE (Information Technology) at Technology University - Meiktila.
       Good experience with Web Development and Android.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
